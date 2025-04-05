@@ -17,9 +17,7 @@ As informações são usadas exclusivamente para:
 Não compartilhamos nenhuma informação com terceiros. Nenhum dado é enviado para servidores externos.
 
 ## 4. Permissões do App
-- Notificações: usadas para alertar tarefas
-- Localização: opcional, usada para ativar lembretes baseados em local
-- iCloud: usada para sincronização entre dispositivos
+O aplicativo não utiliza nenhuma informação do seu dispositivo.
 
 ## 5. Segurança
 Os dados armazenados localmente permanecem no dispositivo e são protegidos pelo sistema operacional do iOS.
