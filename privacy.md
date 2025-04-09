@@ -1,30 +1,36 @@
-# Política de Privacidade — FamTask
+---
+layout: default
+title: "Privacy Policy"
+permalink: /privacy/
+---
 
-Atualizado em: 05 de abril de 2025
+# Privacy Policy — FamTask
 
-A sua privacidade é importante para nós. Esta Política de Privacidade descreve como as informações pessoais são coletadas, usadas e protegidas ao utilizar o aplicativo **FamTask: Rotinas em Família**.
+Updated on: April 9, 2025
 
-## 1. Informações Coletadas
-O aplicativo **NÃO coleta informações pessoais sensíveis** como nome completo, CPF ou localização precisa. Os dados inseridos no app (como tarefas, nomes de perfil e recompensas) são armazenados localmente no dispositivo do usuário ou em iCloud, caso ativado.
+Your privacy is important to us. This Privacy Policy describes how personal information is collected, used, and protected when using the **FamTask: Family Routines** app.
 
-## 2. Uso das Informações
-As informações são usadas exclusivamente para:
-- Gerenciar tarefas da família
-- Gerar progresso e recompensas
-- Sincronizar dados via iCloud (opcional)
+## 1. Information Collected
+The app **DOES NOT collect sensitive personal information** such as full name, CPF (Brazilian ID), or precise location. The data entered in the app (like tasks, profile names, and rewards) is stored locally on the user’s device or in iCloud, if enabled.
 
-## 3. Compartilhamento de Informações
-Não compartilhamos nenhuma informação com terceiros. Nenhum dado é enviado para servidores externos.
+## 2. Use of Information
+Information is used exclusively to:
+- Manage family tasks
+- Track progress and rewards
+- Sync data via iCloud (optional)
 
-## 4. Permissões do App
-O aplicativo não utiliza nenhuma informação do seu dispositivo.
+## 3. Information Sharing
+We do not share any information with third parties. No data is sent to external servers.
 
-## 5. Segurança
-Os dados armazenados localmente permanecem no dispositivo e são protegidos pelo sistema operacional do iOS.
+## 4. App Permissions
+The app does not use any information from your device.
 
-## 6. Contato
-Para dúvidas ou solicitações, entre em contato: **bruno-hcr@hotmail.com**
+## 5. Security
+Locally stored data remains on the device and is protected by the iOS operating system.
+
+## 6. Contact
+For questions or requests, please contact: **bruno-hcr@hotmail.com**
 
 ---
 
-FamTask valoriza sua confiança e privacidade. Ao continuar a usar o app, você concorda com os termos desta política.
+FamTask values your trust and privacy. By continuing to use the app, you agree to the terms of this policy.

@@ -1,25 +1,31 @@
-# Termos de Uso — FamTask
+---
+layout: default
+title: "Terms of Use"
+permalink: /terms/
+---
 
-Estes Termos de Uso regulam o uso do aplicativo **FamTask: Rotinas em Família**, disponível para dispositivos iOS.
+# Terms of Use — FamTask
 
-## 1. Aceitação
-Ao utilizar o aplicativo, você concorda com estes Termos de Uso e com a Política de Privacidade. Caso não concorde, não utilize o app.
+These Terms of Use govern the use of the **FamTask: Family Routines** app, available for iOS devices.
 
-## 2. Uso Permitido
-Você se compromete a utilizar o FamTask apenas para fins pessoais e não comerciais, com o objetivo de organizar rotinas familiares.
+## 1. Acceptance
+By using the app, you agree to these Terms of Use and the Privacy Policy. If you do not agree, please do not use the app.
 
-## 3. Conteúdo do Usuário
-O app permite que o usuário insira dados personalizados (ex: tarefas, nomes, recompensas). Você é responsável pelo conteúdo inserido.
+## 2. Permitted Use
+You agree to use FamTask solely for personal, non-commercial purposes to organize family routines.
 
-## 4. Responsabilidade
-O app é fornecido "como está". O desenvolvedor não se responsabiliza por eventuais perdas de dados, falhas ou danos decorrentes do uso.
+## 3. User Content
+The app allows users to input personalized data (e.g., tasks, names, rewards). You are responsible for the content you input.
 
-## 5. Alterações
-Estes termos podem ser alterados a qualquer momento. Ao continuar utilizando o app após uma atualização, você aceita os novos termos.
+## 4. Responsibility
+The app is provided "as is". The developer is not responsible for any data loss, errors, or damages resulting from its use.
 
-## 6. Contato
-Dúvidas? Fale com a gente pelo e-mail: **bruno-hcr@hotmail.com**
+## 5. Changes
+These terms may be updated at any time. By continuing to use the app after an update, you accept the new terms.
+
+## 6. Contact
+Questions? Contact us via email: **bruno-hcr@hotmail.com**
 
 ---
 
-FamTask foi criado para facilitar o dia a dia da sua família com leveza e diversão.
+FamTask was created to make your family’s day-to-day life easier and more fun.
